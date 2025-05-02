@@ -1,0 +1,1309 @@
+#EXTM3U url-tvg="https://epg.one/epg.xml,http://stream4k.ru:8080/Baton TV/epg.xml,http://stream4k.ru:8080/cl/epg.xml,http://epg.olsib.site:8080/epg.xml" refresh="3600"
+#EXTINF:0 tvg-id="00115" tvg-name="Baton TV Вне закона" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Вне закона
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/00115/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="00116" tvg-name="Baton TV Советские детские фильмы" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сделано в СССР Baton TV" , Baton TV Советские детские фильмы
+#EXTGRP:Сделано в СССР Baton TV
+http://cdn1.starcinemax.fun:2095/00116/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0315" tvg-name="Baton TV Однажды в России" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Однажды в России
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0315/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Папины дочки" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Папины дочки
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0335/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Баффи – истреб. вампиров" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Баффи – истреб. вампиров
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0351/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0365" tvg-name="Baton TV Покемон" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Покемон
+#EXTGRP:Мультфильмы Baton TV
+http://cdn1.starcinemax.fun:2095/0365/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0394" tvg-name="Baton TV Чарльз Бронсон" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" catchup="flussonic" catchup-days="3", Baton TV Чарльз Бронсон
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0394/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0398" tvg-name="Baton TV Пятница 13" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Пятница 13
+#EXTGRP:Кинозалы Baton TV
+http://cdn1.starcinemax.fun:2095/0398/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0420" tvg-name="Baton TV На ножах" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV На ножах
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0420/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0458" tvg-name="Baton TV Земля любви" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноновелы Baton TV" , Baton TV Земля любви
+#EXTGRP:Киноновелы Baton TV
+http://cdn1.starcinemax.fun:2095/0458/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0464" tvg-name="Baton TV Беларусьфильм" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноконцерны СССР Baton TV" , Baton TV Беларусьфильм
+#EXTGRP:Киноконцерны СССР Baton TV
+http://cdn2.starcinemax.fun:2095/0464/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Доктор хаус" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Доктор хаус
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/0648/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0809" tvg-name="Baton TV Чудеса на виражах" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Чудеса на виражах
+#EXTGRP:Мультфильмы Baton TV
+http://cdn2.starcinemax.fun:2095/0809/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0907" tvg-name="Baton TV Каратэ" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Каратэ
+#EXTGRP:Кинозалы Baton TV
+http://cdn2.starcinemax.fun:2095/0907/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0921" tvg-name="Baton TV HBO" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV HBO
+#EXTGRP:Кинозалы Baton TV
+http://cdn2.starcinemax.fun:2095/0921/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="7009" tvg-name="Baton TV Чарли чаплин" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Чарли чаплин
+#EXTGRP:Развлечения Baton TV
+http://cdn2.starcinemax.fun:2095/7009/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="10002" tvg-name="Baton TV Мосфильм 2" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноконцерны СССР Baton TV" , Baton TV Мосфильм 2
+#EXTGRP:Киноконцерны СССР Baton TV
+http://cdn2.starcinemax.fun:2095/10002/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="10011" tvg-name="Baton TV Мосфильм 11" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноконцерны СССР Baton TV" , Baton TV Мосфильм 11
+#EXTGRP:Киноконцерны СССР Baton TV
+http://cdn2.starcinemax.fun:2095/10011/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="10012" tvg-name="Baton TV Мосфильм 12" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноконцерны СССР Baton TV" , Baton TV Мосфильм 12
+#EXTGRP:Киноконцерны СССР Baton TV
+http://cdn2.starcinemax.fun:2095/10012/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="10013" tvg-name="Baton TV Мосфильм 13" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноконцерны СССР Baton TV" , Baton TV Мосфильм 13
+#EXTGRP:Киноконцерны СССР Baton TV
+http://cdn2.starcinemax.fun:2095/10013/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="10014" tvg-name="Baton TV Мосфильм 14" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноконцерны СССР Baton TV" , Baton TV Мосфильм 14
+#EXTGRP:Киноконцерны СССР Baton TV
+http://cdn2.starcinemax.fun:2095/10014/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="10016" tvg-name="Baton TV Мосфильм 16" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноконцерны СССР Baton TV" , Baton TV Мосфильм 16
+#EXTGRP:Киноконцерны СССР Baton TV
+http://cdn2.starcinemax.fun:2095/10016/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="2024007" tvg-name="Baton TV Нина Гребешкова" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Нина Гребешкова
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/2024007/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="2024010" tvg-name="Baton TV Александр Михайлов" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Александр Михайлов
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/2024010/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3040" tvg-name="Baton TV Сваты" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Сваты
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/3040/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3028" tvg-name="Baton TV Hublle" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Новинки" , Baton TV Hublle
+#EXTGRP:Новинки
+http://cdn2.starcinemax.fun:2095/3028/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3049" tvg-name="Baton TV Янковский Олег" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Янковский Олег
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/3049/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3055" tvg-name="Baton TV Полтергейст: Наследие" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Полтергейст: Наследие
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/3055/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3062" tvg-name="Baton TV Своим ходом" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Своим ходом
+#EXTGRP:Развлечения Baton TV
+http://cdn2.starcinemax.fun:2095/3062/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3064" tvg-name="Baton TV Game movie" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Game movie
+#EXTGRP:Кинозалы Baton TV
+http://cdn2.starcinemax.fun:2095/3064/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3031" tvg-name="Baton TV Сергей Гармаш" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Сергей Гармаш
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/3031/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0386" tvg-name="Baton TV Мисс Марпл Агаты Кристи" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Мисс Марпл Агаты Кристи
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0386/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0190" tvg-name="Baton TV Дубляж" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Дубляж
+#EXTGRP:Кинозалы Baton TV
+http://cdn1.starcinemax.fun:2095/0190/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0372" tvg-name="Baton TV Друзья" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Друзья
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0372/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0002" tvg-name="Baton TV Фронт" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" catchup="flussonic" catchup-days="3", Baton TV Фронт
+#EXTGRP:Кинозалы Baton TV
+http://cdn1.starcinemax.fun:2095/0002/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0001" tvg-name="Baton TV Космический" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Новинки" , Baton TV Космический
+#EXTGRP:Новинки
+http://cdn1.starcinemax.fun:2095/0001/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0003" tvg-name="Baton TV UFO" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Новинки" , Baton TV UFO
+#EXTGRP:Новинки
+http://cdn1.starcinemax.fun:2095/0003/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0004" tvg-name="Baton TV Ералаш" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Ералаш
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0004/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0005" tvg-name="Baton TV Ваш любимый детектив" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сделано в СССР Baton TV" , Baton TV Ваш любимый детектив
+#EXTGRP:Сделано в СССР Baton TV
+http://cdn1.starcinemax.fun:2095/0005/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0006" tvg-name="Baton TV Вокруг смеха" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сделано в СССР Baton TV" , Baton TV Вокруг смеха
+#EXTGRP:Сделано в СССР Baton TV
+http://cdn1.starcinemax.fun:2095/0006/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0007" tvg-name="Baton TV Голубой огонек" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сделано в СССР Baton TV" , Baton TV Голубой огонек
+#EXTGRP:Сделано в СССР Baton TV
+http://cdn1.starcinemax.fun:2095/0007/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0008" tvg-name="Baton TV Города Советского Союза" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сделано в СССР Baton TV" , Baton TV Города Советского Союза
+#EXTGRP:Сделано в СССР Baton TV
+http://cdn1.starcinemax.fun:2095/0008/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0009" tvg-name="Baton TV Киностудия Горького" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноконцерны СССР Baton TV" catchup="flussonic" catchup-days="3", Baton TV Киностудия Горького
+#EXTGRP:Киноконцерны СССР Baton TV
+http://cdn1.starcinemax.fun:2095/0009/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0010" tvg-name="Baton TV Жизнь в 90-е" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сделано в СССР Baton TV" , Baton TV Жизнь в 90-е
+#EXTGRP:Сделано в СССР Baton TV
+http://cdn1.starcinemax.fun:2095/0010/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0011" tvg-name="Baton TV Комедия! Комедия!!!" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сделано в СССР Baton TV" , Baton TV Комедия! Комедия!!!
+#EXTGRP:Сделано в СССР Baton TV
+http://cdn1.starcinemax.fun:2095/0011/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0012" tvg-name="Baton TV Очевидное  невероятное" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сделано в СССР Baton TV" , Baton TV Очевидное  невероятное
+#EXTGRP:Сделано в СССР Baton TV
+http://cdn1.starcinemax.fun:2095/0012/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0013" tvg-name="Baton TV Программа ''Время''" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сделано в СССР Baton TV" , Baton TV Программа ''Время''
+#EXTGRP:Сделано в СССР Baton TV
+http://cdn1.starcinemax.fun:2095/0013/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0014" tvg-name="Baton TV Театр «Современник»" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сделано в СССР Baton TV" , Baton TV Театр «Современник»
+#EXTGRP:Сделано в СССР Baton TV
+http://cdn1.starcinemax.fun:2095/0014/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0015" tvg-name="Baton TV Музыкальные фильмы" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сделано в СССР Baton TV" , Baton TV Музыкальные фильмы
+#EXTGRP:Сделано в СССР Baton TV
+http://cdn1.starcinemax.fun:2095/0015/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0016" tvg-name="Baton TV Рок советского периода" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сделано в СССР Baton TV" , Baton TV Рок советского периода
+#EXTGRP:Сделано в СССР Baton TV
+http://cdn1.starcinemax.fun:2095/0016/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0017" tvg-name="Baton TV Советские видеоклипы" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сделано в СССР Baton TV" , Baton TV Советские видеоклипы
+#EXTGRP:Сделано в СССР Baton TV
+http://cdn1.starcinemax.fun:2095/0017/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0018" tvg-name="Baton TV Советские мультфильмы" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сделано в СССР Baton TV" , Baton TV Советские мультфильмы
+#EXTGRP:Сделано в СССР Baton TV
+http://cdn1.starcinemax.fun:2095/0018/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0019" tvg-name="Baton TV Cпокойной ночи малыши!" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сделано в СССР Baton TV" , Baton TV Cпокойной ночи малыши!
+#EXTGRP:Сделано в СССР Baton TV
+http://cdn1.starcinemax.fun:2095/0019/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0020" tvg-name="Baton TV Утренняя почта" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сделано в СССР Baton TV" , Baton TV Утренняя почта
+#EXTGRP:Сделано в СССР Baton TV
+http://cdn1.starcinemax.fun:2095/0020/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0021" tvg-name="Baton TV Tik Tok" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Tik Tok
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0021/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Меломан" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Меломан
+#EXTGRP:Музыка Baton TV
+http://cdn1.starcinemax.fun:2095/0022/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV RAP" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV RAP
+#EXTGRP:Музыка Baton TV
+http://cdn1.starcinemax.fun:2095/0023/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0024" tvg-name="Baton TV Doс nature relax HD" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Новинки" , Baton TV Doс nature relax HD
+#EXTGRP:Новинки
+http://cdn1.starcinemax.fun:2095/0024/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Дискотека 90-х" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Дискотека 90-х
+#EXTGRP:Музыка Baton TV
+http://cdn1.starcinemax.fun:2095/0026/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0027" tvg-name="Baton TV Привет из 90-х" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Привет из 90-х
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0027/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Авторадио" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Авторадио
+#EXTGRP:Музыка Baton TV
+http://cdn1.starcinemax.fun:2095/0028/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0035" tvg-name="Baton TV Каламбур" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Каламбур
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0035/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0047" tvg-name="Baton TV Чернобль" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Чернобль
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0047/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0049" tvg-name="Baton TV Marvel" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Marvel
+#EXTGRP:Кинозалы Baton TV
+http://cdn1.starcinemax.fun:2095/0049/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0053" tvg-name="Baton TV Вампир" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Вампир
+#EXTGRP:Кинозалы Baton TV
+http://cdn1.starcinemax.fun:2095/0053/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Игра престолов" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Игра престолов
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0059/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0062" tvg-name="Baton TV Круги Ада" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Круги Ада
+#EXTGRP:Кинозалы Baton TV
+http://cdn1.starcinemax.fun:2095/0062/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0064" tvg-name="Baton TV Арнольнд Шварцнегер" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" catchup="flussonic" catchup-days="3", Baton TV Арнольнд Шварцнегер
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0064/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0067" tvg-name="Baton TV Anime" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Anime
+#EXTGRP:Мультфильмы Baton TV
+http://cdn1.starcinemax.fun:2095/0067/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0068" tvg-name="Baton TV Гравити Фолс" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Гравити Фолс
+#EXTGRP:Мультфильмы Baton TV
+http://cdn1.starcinemax.fun:2095/0068/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0075" tvg-name="Baton TV Маша и медведь" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Маша и медведь
+#EXTGRP:Мультфильмы Baton TV
+http://cdn1.starcinemax.fun:2095/0075/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0081" tvg-name="Baton TV Вин Дизель" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Вин Дизель
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0081/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0085" tvg-name="Baton TV Новые приключения Винни Пуха" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Новые приключения Винни Пуха
+#EXTGRP:Мультфильмы Baton TV
+http://cdn1.starcinemax.fun:2095/0085/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0088" tvg-name="Baton TV Русалочка" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Русалочка
+#EXTGRP:Мультфильмы Baton TV
+http://cdn1.starcinemax.fun:2095/0088/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0094" tvg-name="Baton TV Агент 007" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Агент 007
+#EXTGRP:Кинозалы Baton TV
+http://cdn1.starcinemax.fun:2095/0094/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0100" tvg-name="Baton TV Мир на изнанку" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Мир на изнанку
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0100/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="00101" tvg-name="Baton TV Аншлаг  Аншлаг!" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сделано в СССР Baton TV" , Baton TV Аншлаг  Аншлаг!
+#EXTGRP:Сделано в СССР Baton TV
+http://cdn1.starcinemax.fun:2095/00101/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV По законам военного времени" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV По законам военного времени
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0101/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="00102" tvg-name="Baton TV Будильник" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сделано в СССР Baton TV" , Baton TV Будильник
+#EXTGRP:Сделано в СССР Baton TV
+http://cdn1.starcinemax.fun:2095/00102/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="00103" tvg-name="Baton TV Зарубежные страны глазами советского телевидения" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сделано в СССР Baton TV" , Baton TV Зарубежные страны глазами советского телевидения
+#EXTGRP:Сделано в СССР Baton TV
+http://cdn1.starcinemax.fun:2095/00103/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="00104" tvg-name="Baton TV Советский автопром" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сделано в СССР Baton TV" , Baton TV Советский автопром
+#EXTGRP:Сделано в СССР Baton TV
+http://cdn1.starcinemax.fun:2095/00104/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="00106" tvg-name="Baton TV Наш сад" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сделано в СССР Baton TV" , Baton TV Наш сад
+#EXTGRP:Сделано в СССР Baton TV
+http://cdn1.starcinemax.fun:2095/00106/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0106" tvg-name="Baton TV Жан клод вандам" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" catchup="flussonic" catchup-days="3", Baton TV Жан клод вандам
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0106/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="00107" tvg-name="Baton TV Компьютеры в СССР" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сделано в СССР Baton TV" , Baton TV Компьютеры в СССР
+#EXTGRP:Сделано в СССР Baton TV
+http://cdn1.starcinemax.fun:2095/00107/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="00108" tvg-name="Baton TV Банды 90-ых" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Банды 90-ых
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/00108/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0108" tvg-name="Baton TV Эльдар Рязанов" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Эльдар Рязанов
+#EXTGRP:Фильмография RU
+http://cdn1.starcinemax.fun:2095/0108/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="00109" tvg-name="Baton TV Смак  с Андреем Макаревичем" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Смак  с Андреем Макаревичем
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/00109/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="00110" tvg-name="Baton TV СВ Шоу" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV СВ Шоу
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/00110/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="00111" tvg-name="Baton TV Дорожный патруль" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Дорожный патруль
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/00111/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="00112" tvg-name="Baton TV Хроники московского быта" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Хроники московского быта
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/00112/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="00114" tvg-name="Baton TV Советское радио.Передачи" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сделано в СССР Baton TV" , Baton TV Советское радио.Передачи
+#EXTGRP:Сделано в СССР Baton TV
+http://cdn1.starcinemax.fun:2095/00114/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Ивановы-Ивановы" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Ивановы-Ивановы
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0118/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Воронины" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Воронины
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0121/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Солдаты" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Солдаты
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0125/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV ClubHouse HD" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV ClubHouse HD
+#EXTGRP:Музыка Baton TV
+http://cdn1.starcinemax.fun:2095/0139/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0142" tvg-name="Baton TV Жак-Ив Кусто" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Жак-Ив Кусто
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0142/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Байки Митяя" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Байки Митяя
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0145/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Сверхъестественное" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Сверхъестественное
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0147/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0155" tvg-name="Baton TV Киносказка" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Киносказка
+#EXTGRP:Мультфильмы Baton TV
+http://cdn1.starcinemax.fun:2095/0155/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Rammstein HD" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Rammstein HD
+#EXTGRP:Музыка Baton TV
+http://cdn1.starcinemax.fun:2095/0156/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0168" tvg-name="Baton TV Уральские пельмени" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Уральские пельмени
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0168/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0169" tvg-name="Baton TV Алексей Балабанов" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Алексей Балабанов
+#EXTGRP:Фильмография RU
+http://cdn1.starcinemax.fun:2095/0169/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Каверы и лайвы" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Каверы и лайвы
+#EXTGRP:Музыка Baton TV
+http://cdn1.starcinemax.fun:2095/0170/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Dram Bass" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Dram Bass
+#EXTGRP:Музыка Baton TV
+http://cdn1.starcinemax.fun:2095/0172/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Ленинград" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Ленинград
+#EXTGRP:Музыка Baton TV
+http://cdn1.starcinemax.fun:2095/0177/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0185" tvg-name="Baton TV Энистон Дженнифер" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Энистон Дженнифер
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0185/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0192" tvg-name="Baton TV Вестерн" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Вестерн
+#EXTGRP:Кинозалы Baton TV
+http://cdn1.starcinemax.fun:2095/0192/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0207" tvg-name="Baton TV Намедни" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Намедни
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0207/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0213" tvg-name="Baton TV Жан поль Бельмондо" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" catchup="flussonic" catchup-days="3", Baton TV Жан поль Бельмондо
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0213/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0218" tvg-name="Baton TV Леонид Куравлёв" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Леонид Куравлёв
+#EXTGRP:Фильмография RU
+http://cdn1.starcinemax.fun:2095/0218/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0300" tvg-name="Baton TV Black Cinema" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Black Cinema
+#EXTGRP:Кинозалы Baton TV
+http://cdn1.starcinemax.fun:2095/0300/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0301" tvg-name="Baton TV Comedy Woman" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Comedy Woman
+#EXTGRP:Кинозалы Baton TV
+http://cdn1.starcinemax.fun:2095/0301/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0303" tvg-name="Baton TV Аль Пачино" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" catchup="flussonic" catchup-days="3", Baton TV Аль Пачино
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0303/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0304" tvg-name="Baton TV Грифины" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Грифины
+#EXTGRP:Мультфильмы Baton TV
+http://cdn1.starcinemax.fun:2095/0304/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Счастливы вместе" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Счастливы вместе
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0306/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0310" tvg-name="Baton TV Драмы" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Драмы
+#EXTGRP:Кинозалы Baton TV
+http://cdn1.starcinemax.fun:2095/0310/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0312" tvg-name="Baton TV Леонардо Ди Каприо" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" catchup="flussonic" catchup-days="3", Baton TV Леонардо Ди Каприо
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0312/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Любовь на районе" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Любовь на районе
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0313/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Mafia" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Mafia
+#EXTGRP:Музыка Baton TV
+http://cdn1.starcinemax.fun:2095/0314/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Семья" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Семья
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0316/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0318" tvg-name="Baton TV Уил смит" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" catchup="flussonic" catchup-days="3", Baton TV Уил смит
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0318/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Каменская" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Каменская
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0320/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0322" tvg-name="Baton TV Doс nature HD" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Новинки" , Baton TV Doс nature HD
+#EXTGRP:Новинки
+http://cdn1.starcinemax.fun:2095/0322/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0323" tvg-name="Baton TV Выжить любой ценой" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Выжить любой ценой
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0323/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0324" tvg-name="Baton TV Одна за всех" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Одна за всех
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0324/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0325" tvg-name="Baton TV Угадай Мелодию" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Угадай Мелодию
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0325/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0326" tvg-name="Baton TV Фиксики" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Фиксики
+#EXTGRP:Мультфильмы Baton TV
+http://cdn1.starcinemax.fun:2095/0326/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0327" tvg-name="Baton TV Городок" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Городок
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0327/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0328" tvg-name="Baton TV Дизель Шоу" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Дизель Шоу
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0328/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Бутырка" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Бутырка
+#EXTGRP:Музыка Baton TV
+http://cdn1.starcinemax.fun:2095/0329/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Ляпис Трубецкой" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Ляпис Трубецкой
+#EXTGRP:Музыка Baton TV
+http://cdn1.starcinemax.fun:2095/0330/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0331" tvg-name="Baton TV Окна с Дмитрием Нагиевым" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Окна с Дмитрием Нагиевым
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0331/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0332" tvg-name="Baton TV Осторожно Модерн" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Осторожно Модерн
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0332/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0333" tvg-name="Baton TV 6 кадров" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV 6 кадров
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0333/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0334" tvg-name="Baton TV Даёшь молодёжь!" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Даёшь молодёжь!
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0334/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0337" tvg-name="Baton TV Маски-шоу" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Маски-шоу
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0337/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0338" tvg-name="Baton TV Мистер Бин" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Мистер Бин
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0338/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0340" tvg-name="Baton TV Андриано Челентано" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" catchup="flussonic" catchup-days="3", Baton TV Андриано Челентано
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0340/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0342" tvg-name="Baton TV Данила Козловский" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Данила Козловский
+#EXTGRP:Фильмография RU
+http://cdn1.starcinemax.fun:2095/0342/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0343" tvg-name="Baton TV Дрю Бэрримор" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" catchup="flussonic" catchup-days="3", Baton TV Дрю Бэрримор
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0343/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0344" tvg-name="Baton TV Людмила Гурченко" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Людмила Гурченко
+#EXTGRP:Фильмография RU
+http://cdn1.starcinemax.fun:2095/0344/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0345" tvg-name="Baton TV Майкл Дуглас" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" catchup="flussonic" catchup-days="3", Baton TV Майкл Дуглас
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0345/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0346" tvg-name="Baton TV Милла Йовович" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" catchup="flussonic" catchup-days="3", Baton TV Милла Йовович
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0346/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0347" tvg-name="Baton TV Михаил Ефремов" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Михаил Ефремов
+#EXTGRP:Фильмография RU
+http://cdn1.starcinemax.fun:2095/0347/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Песня года" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Песня года
+#EXTGRP:Музыка Baton TV
+http://cdn1.starcinemax.fun:2095/0348/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Байки из склепа" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Байки из склепа
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0350/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Беверли-Хиллз 90210" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Беверли-Хиллз 90210
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0352/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Бедная Настя" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Бедная Настя
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0353/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Великолепный век" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Великолепный век
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0355/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Во все тяжкие" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Во все тяжкие
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0356/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Дежурная аптека" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Дежурная аптека
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0357/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0358" tvg-name="Baton TV Да «Лунный свет»" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Да «Лунный свет»
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0358/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0359" tvg-name="Baton TV Секретные материалы" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Секретные материалы
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0359/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0360" tvg-name="Baton TV Ее звали Никита" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Ее звали Никита
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0360/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0361" tvg-name="Baton TV Зена" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Зена
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0361/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0362" tvg-name="Baton TV Крутой Уокер" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Крутой Уокер
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0362/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0363" tvg-name="Baton TV Мажор" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Мажор
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0363/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0364" tvg-name="Baton TV Метод Фрейда" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Метод Фрейда
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0364/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0366" tvg-name="Baton TV Служба 911" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Служба 911
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0366/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0367" tvg-name="Baton TV Склифасовский" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Склифасовский
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0367/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0368" tvg-name="Baton TV Теория большого взрыва" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Теория большого взрыва
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0368/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0369" tvg-name="Baton TV Человек-паук" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Человек-паук
+#EXTGRP:Мультфильмы Baton TV
+http://cdn1.starcinemax.fun:2095/0369/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0371" tvg-name="Baton TV Кухня" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Кухня
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0371/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0373" tvg-name="Baton TV Элен и ребята" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Элен и ребята
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0373/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0374" tvg-name="Baton TV Том и Джери" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Том и Джери
+#EXTGRP:Мультфильмы Baton TV
+http://cdn1.starcinemax.fun:2095/0374/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0375" tvg-name="Baton TV Масяня" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Масяня
+#EXTGRP:Мультфильмы Baton TV
+http://cdn1.starcinemax.fun:2095/0375/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0376" tvg-name="Baton TV Антонио Бандерас" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" catchup="flussonic" catchup-days="3", Baton TV Антонио Бандерас
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0376/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0380" tvg-name="Baton TV Вуди Аллен" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" catchup="flussonic" catchup-days="3", Baton TV Вуди Аллен
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0380/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0381" tvg-name="Baton TV Владимир Ильин" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Владимир Ильин
+#EXTGRP:Фильмография RU
+http://cdn1.starcinemax.fun:2095/0381/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0382" tvg-name="Baton TV Губка Боб" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Губка Боб
+#EXTGRP:Мультфильмы Baton TV
+http://cdn1.starcinemax.fun:2095/0382/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0383" tvg-name="Baton TV Кабачок  13 стульев" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сделано в СССР Baton TV" , Baton TV Кабачок  13 стульев
+#EXTGRP:Сделано в СССР Baton TV
+http://cdn1.starcinemax.fun:2095/0383/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0384" tvg-name="Baton TV Киллиан Мёрфи" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" catchup="flussonic" catchup-days="3", Baton TV Киллиан Мёрфи
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0384/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0385" tvg-name="Baton TV СеняФедя" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV СеняФедя
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0385/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0387" tvg-name="Baton TV Молодёжка" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Молодёжка
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0387/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0388" tvg-name="Baton TV Плащ и шпага" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Плащ и шпага
+#EXTGRP:Кинозалы Baton TV
+http://cdn1.starcinemax.fun:2095/0388/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0389" tvg-name="Baton TV Час Суда с Павлом Астаховым" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Час Суда с Павлом Астаховым
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0389/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0390" tvg-name="Baton TV Ищейка" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Ищейка
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0390/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0391" tvg-name="Baton TV Девушки с Макаровым" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Девушки с Макаровым
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0391/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0392" tvg-name="Baton TV Милиционер с Рублёвки" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Милиционер с Рублёвки
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0392/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0393" tvg-name="Baton TV Юрий Никулин  Клуб Белый попугай" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сделано в СССР Baton TV" , Baton TV Юрий Никулин  Клуб Белый попугай
+#EXTGRP:Сделано в СССР Baton TV
+http://cdn1.starcinemax.fun:2095/0393/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV 80's Best Euro-Disco" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV 80's Best Euro-Disco
+#EXTGRP:Музыка Baton TV
+http://cdn1.starcinemax.fun:2095/0399/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0400" tvg-name="Baton TV Пес" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Пес
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0400/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0401" tvg-name="Baton TV Клиника" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Клиника
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0401/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0402" tvg-name="Baton TV Восьмидесятые" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Восьмидесятые
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0402/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0403" tvg-name="Baton TV Николь Кидман" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" catchup="flussonic" catchup-days="3", Baton TV Николь Кидман
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0403/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0405" tvg-name="Baton TV Военные сериалы" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Военные сериалы
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0405/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0406" tvg-name="Baton TV Валентин Гафт" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" , Baton TV Валентин Гафт
+#EXTGRP:Фильмография RU
+http://cdn1.starcinemax.fun:2095/0406/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0407" tvg-name="Baton TV Звёздные врата: Атлантида" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Звёздные врата: Атлантида
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0407/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Retro Disco" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Retro Disco
+#EXTGRP:Музыка Baton TV
+http://cdn1.starcinemax.fun:2095/0408/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Зололто шансона" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Зололто шансона
+#EXTGRP:Музыка Baton TV
+http://cdn1.starcinemax.fun:2095/0409/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0411" tvg-name="Baton TV Жизнь замечатетьных людей" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Жизнь замечатетьных людей
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0411/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0412" tvg-name="Baton TV Ольга HD" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Ольга HD
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0412/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Виктор Цой и Группа КИНО" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Виктор Цой и Группа КИНО
+#EXTGRP:Музыка Baton TV
+http://cdn1.starcinemax.fun:2095/0413/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0414" tvg-name="Baton TV Галилео" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Галилео
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0414/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0415" tvg-name="Baton TV Империя страсти" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Империя страсти
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0415/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0416" tvg-name="Baton TV Союз мультфильм" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Союз мультфильм
+#EXTGRP:Мультфильмы Baton TV
+http://cdn1.starcinemax.fun:2095/0416/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0417" tvg-name="Baton TV Чудаки" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Чудаки
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0417/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0418" tvg-name="Baton TV 95 квартал" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV 95 квартал
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0418/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0419" tvg-name="Baton TV Голые и смешные" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Голые и смешные
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0419/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Муз коллекция Дитер Болен" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Муз коллекция Дитер Болен
+#EXTGRP:Музыка Baton TV
+http://cdn1.starcinemax.fun:2095/0421/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0422" tvg-name="Baton TV Top Gear (Топ Гир)" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Top Gear (Топ Гир)
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0422/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0424" tvg-name="Baton TV Николай Караченцов" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Николай Караченцов
+#EXTGRP:Фильмография RU
+http://cdn1.starcinemax.fun:2095/0424/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0426" tvg-name="Baton TV Виктор Сухоруков" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Виктор Сухоруков
+#EXTGRP:Фильмография RU
+http://cdn1.starcinemax.fun:2095/0426/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0427" tvg-name="Baton TV Лев Дуров" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Лев Дуров
+#EXTGRP:Фильмография RU
+http://cdn1.starcinemax.fun:2095/0427/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0428" tvg-name="Baton TV Ридли Скотт" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" catchup="flussonic" catchup-days="3", Baton TV Ридли Скотт
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0428/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0429" tvg-name="Baton TV Секретные материалы псов-шпионов" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Секретные материалы псов-шпионов
+#EXTGRP:Мультфильмы Baton TV
+http://cdn1.starcinemax.fun:2095/0429/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0430" tvg-name="Baton TV Возвращение в Эдем" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Возвращение в Эдем
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0430/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0431" tvg-name="Baton TV Гром в раю" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Гром в раю
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0431/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0432" tvg-name="Baton TV Женаты и с детьми" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Женаты и с детьми
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0432/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0434" tvg-name="Baton TV Райкин Аркадий" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Райкин Аркадий
+#EXTGRP:Фильмография RU
+http://cdn1.starcinemax.fun:2095/0434/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0435" tvg-name="Baton TV Спрут" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Спрут
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0435/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0436" tvg-name="Baton TV Вовочка" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Вовочка
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0436/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0437" tvg-name="Baton TV Прапорщик Шматко или Ё-моё" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Прапорщик Шматко или Ё-моё
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0437/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0438" tvg-name="Baton TV Боец" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Боец
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0438/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0439" tvg-name="Baton TV Царь горы" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Царь горы
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0439/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0440" tvg-name="Baton TV Следствие вели" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Следствие вели
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0440/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0441" tvg-name="Baton TV Последний из Магикян" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Последний из Магикян
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0441/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0442" tvg-name="Baton TV В мире животных" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV В мире животных
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0442/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0443" tvg-name="Baton TV Клуб путешественников" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Клуб путешественников
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0443/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Japan Music" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Japan Music
+#EXTGRP:Музыка Baton TV
+http://cdn1.starcinemax.fun:2095/0444/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0446" tvg-name="Baton TV Бородач" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Бородач
+#EXTGRP:Развлечения Baton TV
+http://cdn1.starcinemax.fun:2095/0446/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Underground Hit" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Underground Hit
+#EXTGRP:Музыка Baton TV
+http://cdn1.starcinemax.fun:2095/0447/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Korean Music" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Korean Music
+#EXTGRP:Музыка Baton TV
+http://cdn1.starcinemax.fun:2095/0448/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0450" tvg-name="Baton TV Просто Мария" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноновелы Baton TV" , Baton TV Просто Мария
+#EXTGRP:Киноновелы Baton TV
+http://cdn1.starcinemax.fun:2095/0450/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0451" tvg-name="Baton TV Хозяйка судьбы" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноновелы Baton TV" , Baton TV Хозяйка судьбы
+#EXTGRP:Киноновелы Baton TV
+http://cdn1.starcinemax.fun:2095/0451/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0452" tvg-name="Baton TV Зона. Тюремный роман" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Зона. Тюремный роман
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0452/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Boys Band s" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Boys Band s
+#EXTGRP:Музыка Baton TV
+http://cdn1.starcinemax.fun:2095/0453/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0454" tvg-name="Baton TV Клон" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноновелы Baton TV" , Baton TV Клон
+#EXTGRP:Киноновелы Baton TV
+http://cdn1.starcinemax.fun:2095/0454/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0455" tvg-name="Baton TV Женщина в любви" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноновелы Baton TV" , Baton TV Женщина в любви
+#EXTGRP:Киноновелы Baton TV
+http://cdn1.starcinemax.fun:2095/0455/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0457" tvg-name="Baton TV Жестокий ангел" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноновелы Baton TV" , Baton TV Жестокий ангел
+#EXTGRP:Киноновелы Baton TV
+http://cdn1.starcinemax.fun:2095/0457/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0460" tvg-name="Baton TV Семейные узы" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноновелы Baton TV" , Baton TV Семейные узы
+#EXTGRP:Киноновелы Baton TV
+http://cdn1.starcinemax.fun:2095/0460/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0461" tvg-name="Baton TV Леонид Ярмольник" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Леонид Ярмольник
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/0461/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV MTV 80" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV MTV 80
+#EXTGRP:Музыка Baton TV
+http://cdn2.starcinemax.fun:2095/0462/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0463" tvg-name="Baton TV Киножурнал Фитиль" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Киножурнал Фитиль
+#EXTGRP:Развлечения Baton TV
+http://cdn2.starcinemax.fun:2095/0463/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0465" tvg-name="Baton TV Ролан Быков" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Ролан Быков
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/0465/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Ментовские войны" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Ментовские войны
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/0467/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0468" tvg-name="Baton TV Русский ниндзя" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Русский ниндзя
+#EXTGRP:Развлечения Baton TV
+http://cdn2.starcinemax.fun:2095/0468/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0503" tvg-name="Baton TV Cinema Asia" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Cinema Asia
+#EXTGRP:Кинозалы Baton TV
+http://cdn2.starcinemax.fun:2095/0503/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0630" tvg-name="Baton TV Сергей Бодров" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Сергей Бодров
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/0630/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0631" tvg-name="Baton TV Марат Башаров" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Марат Башаров
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/0631/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0632" tvg-name="Baton TV Владимир Вдовиченков" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Владимир Вдовиченков
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/0632/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0633" tvg-name="Baton TV Гоша Куценко" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Гоша Куценко
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/0633/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0634" tvg-name="Baton TV Андрей Мерзликин" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Андрей Мерзликин
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/0634/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0635" tvg-name="Baton TV Борислав Брондуков" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Борислав Брондуков
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/0635/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0637" tvg-name="Baton TV Ежи Штур" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" catchup="flussonic" catchup-days="3", Baton TV Ежи Штур
+#EXTGRP:Фильмография World
+http://cdn2.starcinemax.fun:2095/0637/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0638" tvg-name="Baton TV Четыре свадьбы" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Четыре свадьбы
+#EXTGRP:Развлечения Baton TV
+http://cdn2.starcinemax.fun:2095/0638/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0639" tvg-name="Baton TV Гоблин" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Гоблин
+#EXTGRP:Кинозалы Baton TV
+http://cdn2.starcinemax.fun:2095/0639/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Сектор Газа" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Сектор Газа
+#EXTGRP:Музыка Baton TV
+http://cdn2.starcinemax.fun:2095/0642/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0643" tvg-name="Baton TV Олег Табаков" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Олег Табаков
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/0643/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0644" tvg-name="Baton TV Владимир Епифанцев" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Владимир Епифанцев
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/0644/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Сериал крот" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Сериал крот
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/0645/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0646" tvg-name="Baton TV Польские фильмы в Советском прокате" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Польские фильмы в Советском прокате
+#EXTGRP:Кинозалы Baton TV
+http://cdn2.starcinemax.fun:2095/0646/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0649" tvg-name="Baton TV Итальянцы by" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Итальянцы by
+#EXTGRP:Развлечения Baton TV
+http://cdn2.starcinemax.fun:2095/0649/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0652" tvg-name="Baton TV Маттиас Хьюз" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" catchup="flussonic" catchup-days="3", Baton TV Маттиас Хьюз
+#EXTGRP:Фильмография World
+http://cdn2.starcinemax.fun:2095/0652/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Дальнобойщики" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Дальнобойщики
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/0705/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0706" tvg-name="Baton TV Наша раша" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Наша раша
+#EXTGRP:Развлечения Baton TV
+http://cdn2.starcinemax.fun:2095/0706/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Не родись красивой" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Не родись красивой
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/0710/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Убойная сила" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Убойная сила
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/0717/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Физрук" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Физрук
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/0731/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0811" tvg-name="Baton TV Мимимишки" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Мимимишки
+#EXTGRP:Мультфильмы Baton TV
+http://cdn2.starcinemax.fun:2095/0811/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Коломбо" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Коломбо
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/0813/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0816" tvg-name="Baton TV Армен Джигарханян" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Армен Джигарханян
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/0816/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Твин Пикс" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Твин Пикс
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/0821/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0823" tvg-name="Baton TV Фантастика" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Фантастика
+#EXTGRP:Кинозалы Baton TV
+http://cdn2.starcinemax.fun:2095/0823/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0824" tvg-name="Baton TV Кира Найтли" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" catchup="flussonic" catchup-days="3", Baton TV Кира Найтли
+#EXTGRP:Фильмография World
+http://cdn2.starcinemax.fun:2095/0824/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0825" tvg-name="Baton TV Индия" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Индия
+#EXTGRP:Кинозалы Baton TV
+http://cdn2.starcinemax.fun:2095/0825/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0900" tvg-name="Baton TV Триллер" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Триллер
+#EXTGRP:Кинозалы Baton TV
+http://cdn2.starcinemax.fun:2095/0900/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0901" tvg-name="Baton TV Ферма монстров" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Ферма монстров
+#EXTGRP:Мультфильмы Baton TV
+http://cdn2.starcinemax.fun:2095/0901/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0903" tvg-name="Baton TV Евгений Леонов" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Евгений Леонов
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/0903/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0904" tvg-name="Baton TV Высоцкий Документалка" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Высоцкий Документалка
+#EXTGRP:Развлечения Baton TV
+http://cdn2.starcinemax.fun:2095/0904/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0905" tvg-name="Baton TV Паоло Вилладжо" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" catchup="flussonic" catchup-days="3", Baton TV Паоло Вилладжо
+#EXTGRP:Фильмография World
+http://cdn2.starcinemax.fun:2095/0905/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0906" tvg-name="Baton TV криминальная россия" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV криминальная россия
+#EXTGRP:Развлечения Baton TV
+http://cdn2.starcinemax.fun:2095/0906/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Концерт" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Концерт
+#EXTGRP:Музыка Baton TV
+http://cdn2.starcinemax.fun:2095/0908/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0909" tvg-name="Baton TV Старый добрый фильм" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Старый добрый фильм
+#EXTGRP:Кинозалы Baton TV
+http://cdn2.starcinemax.fun:2095/0909/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0910" tvg-name="Baton TV Семейный" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Семейный
+#EXTGRP:Кинозалы Baton TV
+http://cdn2.starcinemax.fun:2095/0910/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0911" tvg-name="Baton TV Андрей Миронов" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Андрей Миронов
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/0911/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0912" tvg-name="Baton TV Ужасы VHS" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Ужасы VHS
+#EXTGRP:Кинозалы Baton TV
+http://cdn2.starcinemax.fun:2095/0912/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV METAL" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV METAL
+#EXTGRP:Музыка Baton TV
+http://cdn2.starcinemax.fun:2095/0913/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0914" tvg-name="Baton TV Вуншпунш" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Вуншпунш
+#EXTGRP:Мультфильмы Baton TV
+http://cdn2.starcinemax.fun:2095/0914/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0915" tvg-name="Baton TV RUComedy" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV RUComedy
+#EXTGRP:Кинозалы Baton TV
+http://cdn2.starcinemax.fun:2095/0915/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0916" tvg-name="Baton TV Стивен Спилберг" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" catchup="flussonic" catchup-days="3", Baton TV Стивен Спилберг
+#EXTGRP:Фильмография World
+http://cdn2.starcinemax.fun:2095/0916/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Бригада" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Бригада
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/0917/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0920" tvg-name="Baton TV Дольф Лундгрен" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" catchup="flussonic" catchup-days="3", Baton TV Дольф Лундгрен
+#EXTGRP:Фильмография World
+http://cdn2.starcinemax.fun:2095/0920/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0922" tvg-name="Baton TV Крис Коламбус" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" catchup="flussonic" catchup-days="3", Baton TV Крис Коламбус
+#EXTGRP:Фильмография World
+http://cdn2.starcinemax.fun:2095/0922/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0924" tvg-name="Baton TV Александр Панкратов-Чёрный" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Александр Панкратов-Чёрный
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/0924/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0925" tvg-name="Baton TV Алексей Серебряков" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Алексей Серебряков
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/0925/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0926" tvg-name="Baton TV Cinema Sport" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Cinema Sport
+#EXTGRP:Кинозалы Baton TV
+http://cdn2.starcinemax.fun:2095/0926/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Мир! Дружба! Жвачка!" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Мир! Дружба! Жвачка!
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/0927/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Старый Универ" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Старый Универ
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/0928/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Мылодрама" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Мылодрама
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/0929/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Улицы разбитых фонарей" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Улицы разбитых фонарей
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/0930/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Мосгаз" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Мосгаз
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/0931/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0937" tvg-name="Baton TV Как это работает?" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Как это работает?
+#EXTGRP:Развлечения Baton TV
+http://cdn2.starcinemax.fun:2095/0937/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Михаил Круг" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Михаил Круг
+#EXTGRP:Музыка Baton TV
+http://cdn2.starcinemax.fun:2095/0938/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0966" tvg-name="Baton TV Город Свиней" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Город Свиней
+#EXTGRP:Мультфильмы Baton TV
+http://cdn2.starcinemax.fun:2095/0966/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0967" tvg-name="Baton TV Что с Энди?" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Что с Энди?
+#EXTGRP:Мультфильмы Baton TV
+http://cdn2.starcinemax.fun:2095/0967/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0970" tvg-name="Baton TV Задорнов" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Задорнов
+#EXTGRP:Развлечения Baton TV
+http://cdn2.starcinemax.fun:2095/0970/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Дрейк и Джош" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Дрейк и Джош
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/0973/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0974" tvg-name="Baton TV The Cube" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV The Cube
+#EXTGRP:Развлечения Baton TV
+http://cdn2.starcinemax.fun:2095/0974/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0977" tvg-name="Baton TV The Chase" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV The Chase
+#EXTGRP:Развлечения Baton TV
+http://cdn2.starcinemax.fun:2095/0977/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0978" tvg-name="Baton TV Маша і ведмідь" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Маша і ведмідь
+#EXTGRP:Мультфильмы Baton TV
+http://cdn2.starcinemax.fun:2095/0978/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0979" tvg-name="Baton TV Надежда Румянцева" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Надежда Румянцева
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/0979/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0980" tvg-name="Baton TV Чародеи" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Чародеи
+#EXTGRP:Мультфильмы Baton TV
+http://cdn2.starcinemax.fun:2095/0980/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0981" tvg-name="Baton TV Фёдор Добронравов" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Фёдор Добронравов
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/0981/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Старые песни о главном" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Старые песни о главном
+#EXTGRP:Музыка Baton TV
+http://cdn2.starcinemax.fun:2095/0982/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="7004" tvg-name="Baton TV Новогодний калейдоскоп мульты советские" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Новый Год Baton TV" , Baton TV Новогодний калейдоскоп мульты советские
+#EXTGRP:Новый Год Baton TV
+http://cdn2.starcinemax.fun:2095/7004/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="7010" tvg-name="Baton TV Удивительная природа" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Удивительная природа
+#EXTGRP:Развлечения Baton TV
+http://cdn2.starcinemax.fun:2095/7010/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="9011" tvg-name="Baton TV Орел и решка" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Орел и решка
+#EXTGRP:Развлечения Baton TV
+http://cdn2.starcinemax.fun:2095/9011/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Звездный путь" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Звездный путь
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/09211/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="10001" tvg-name="Baton TV Мосфильм 1" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноконцерны СССР Baton TV" , Baton TV Мосфильм 1
+#EXTGRP:Киноконцерны СССР Baton TV
+http://cdn2.starcinemax.fun:2095/10001/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="10003" tvg-name="Baton TV Мосфильм 3" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноконцерны СССР Baton TV" , Baton TV Мосфильм 3
+#EXTGRP:Киноконцерны СССР Baton TV
+http://cdn2.starcinemax.fun:2095/10003/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="10004" tvg-name="Baton TV Мосфильм 4" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноконцерны СССР Baton TV" , Baton TV Мосфильм 4
+#EXTGRP:Киноконцерны СССР Baton TV
+http://cdn2.starcinemax.fun:2095/10004/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="10005" tvg-name="Baton TV Мосфильм 5" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноконцерны СССР Baton TV" , Baton TV Мосфильм 5
+#EXTGRP:Киноконцерны СССР Baton TV
+http://cdn2.starcinemax.fun:2095/10005/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="10006" tvg-name="Baton TV Мосфильм 6" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноконцерны СССР Baton TV" , Baton TV Мосфильм 6
+#EXTGRP:Киноконцерны СССР Baton TV
+http://cdn2.starcinemax.fun:2095/10006/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="10007" tvg-name="Baton TV Мосфильм 7" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноконцерны СССР Baton TV" , Baton TV Мосфильм 7
+#EXTGRP:Киноконцерны СССР Baton TV
+http://cdn2.starcinemax.fun:2095/10007/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="10008" tvg-name="Baton TV Мосфильм 8" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноконцерны СССР Baton TV" , Baton TV Мосфильм 8
+#EXTGRP:Киноконцерны СССР Baton TV
+http://cdn2.starcinemax.fun:2095/10008/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="10009" tvg-name="Baton TV Мосфильм 9" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноконцерны СССР Baton TV" , Baton TV Мосфильм 9
+#EXTGRP:Киноконцерны СССР Baton TV
+http://cdn2.starcinemax.fun:2095/10009/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="10010" tvg-name="Baton TV Мосфильм 10" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноконцерны СССР Baton TV" , Baton TV Мосфильм 10
+#EXTGRP:Киноконцерны СССР Baton TV
+http://cdn2.starcinemax.fun:2095/10010/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="10015" tvg-name="Baton TV Мосфильм 15" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноконцерны СССР Baton TV" , Baton TV Мосфильм 15
+#EXTGRP:Киноконцерны СССР Baton TV
+http://cdn2.starcinemax.fun:2095/10015/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="10017" tvg-name="Baton TV Мосфильм 17" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноконцерны СССР Baton TV" , Baton TV Мосфильм 17
+#EXTGRP:Киноконцерны СССР Baton TV
+http://cdn2.starcinemax.fun:2095/10017/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="10018" tvg-name="Baton TV Мосфильм 18" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноконцерны СССР Baton TV" , Baton TV Мосфильм 18
+#EXTGRP:Киноконцерны СССР Baton TV
+http://cdn2.starcinemax.fun:2095/10018/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="10019" tvg-name="Baton TV Мосфильм 19" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноконцерны СССР Baton TV" , Baton TV Мосфильм 19
+#EXTGRP:Киноконцерны СССР Baton TV
+http://cdn2.starcinemax.fun:2095/10019/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="10020" tvg-name="Baton TV Мосфильм 20" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноконцерны СССР Baton TV" , Baton TV Мосфильм 20
+#EXTGRP:Киноконцерны СССР Baton TV
+http://cdn2.starcinemax.fun:2095/10020/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV ТНТ премьер" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV ТНТ премьер
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/30000/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="2024001" tvg-name="Baton TV Борис Новиков" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Борис Новиков
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/2024001/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="2024002" tvg-name="Baton TV Всеволод Санаев" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Всеволод Санаев
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/2024002/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="2024003" tvg-name="Baton TV Галина Польских" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Галина Польских
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/2024003/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="2024005" tvg-name="Baton TV Любовь Полищук" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Любовь Полищук
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/2024005/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="2024008" tvg-name="Baton TV Роман Мадянов" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Роман Мадянов
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/2024008/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="2024009" tvg-name="Baton TV Сергей Филиппов" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Сергей Филиппов
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/2024009/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="2024011" tvg-name="Baton TV Сергей Юрский" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Сергей Юрский
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/2024011/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="2024012" tvg-name="Baton TV Первый Пограничный" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Первый Пограничный
+#EXTGRP:Кинозалы Baton TV
+http://cdn2.starcinemax.fun:2095/2024012/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3043" tvg-name="Baton TV Доктор Куин: Женщина-врач" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Доктор Куин: Женщина-врач
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/3043/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="09212" tvg-name="Baton TV Звездный путь  Вояджер" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Звездный путь  Вояджер
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/09212/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Depeche Mode" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Depeche Mode
+#EXTGRP:Музыка Baton TV
+http://cdn2.starcinemax.fun:2095/7032/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3000" tvg-name="Baton TV Академия «Амбрелла»" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Академия «Амбрелла»
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/3000/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0990" tvg-name="Baton TV +100500" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV +100500
+#EXTGRP:Развлечения Baton TV
+http://cdn2.starcinemax.fun:2095/0990/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Ария" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Ария
+#EXTGRP:Музыка Baton TV
+http://cdn2.starcinemax.fun:2095/1005/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="1008" tvg-name="Baton TV Махинаторы" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Махинаторы
+#EXTGRP:Развлечения Baton TV
+http://cdn2.starcinemax.fun:2095/1008/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="1400" tvg-name="Baton TV ЧОП" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV ЧОП
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/1400/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="1402" tvg-name="Baton TV Ну погоди" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Ну погоди
+#EXTGRP:Мультфильмы Baton TV
+http://cdn2.starcinemax.fun:2095/1402/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Русский рок" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Русский рок
+#EXTGRP:Музыка Baton TV
+http://cdn2.starcinemax.fun:2095/1412/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3001" tvg-name="Baton TV Клан Сопрано" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Клан Сопрано
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/3001/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3002" tvg-name="Baton TV Мистер Робот" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Мистер Робот
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/3002/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Disco - Дивы" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Disco - Дивы
+#EXTGRP:Музыка Baton TV
+http://cdn2.starcinemax.fun:2095/3003/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3004" tvg-name="Baton TV Наследники" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Наследники
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/3004/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3006" tvg-name="Baton TV Буба" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Буба
+#EXTGRP:Мультфильмы Baton TV
+http://cdn2.starcinemax.fun:2095/3006/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3005" tvg-name="Baton TV Вспыш и чудо-машинки" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Вспыш и чудо-машинки
+#EXTGRP:Мультфильмы Baton TV
+http://cdn2.starcinemax.fun:2095/3005/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3008" tvg-name="Baton TV Огии и тараканы" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Огии и тараканы
+#EXTGRP:Мультфильмы Baton TV
+http://cdn2.starcinemax.fun:2095/3008/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3010" tvg-name="Baton TV Годзилла" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Годзилла
+#EXTGRP:Кинозалы Baton TV
+http://cdn2.starcinemax.fun:2095/3010/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3007" tvg-name="Baton TV Щенячий патруль" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Щенячий патруль
+#EXTGRP:Мультфильмы Baton TV
+http://cdn2.starcinemax.fun:2095/3007/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3009" tvg-name="Baton TV Ангелы и демоны" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Ангелы и демоны
+#EXTGRP:Кинозалы Baton TV
+http://cdn2.starcinemax.fun:2095/3009/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3012" tvg-name="Baton TV Cinema Horror Kids" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Cinema Horror Kids
+#EXTGRP:Кинозалы Baton TV
+http://cdn2.starcinemax.fun:2095/3012/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3014" tvg-name="Baton TV Cinema Аnimals" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Cinema Аnimals
+#EXTGRP:Кинозалы Baton TV
+http://cdn2.starcinemax.fun:2095/3014/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3011" tvg-name="Baton TV Киборг" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Киборг
+#EXTGRP:Кинозалы Baton TV
+http://cdn2.starcinemax.fun:2095/3011/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3013" tvg-name="Baton TV Cinema Woman" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Cinema Woman
+#EXTGRP:Кинозалы Baton TV
+http://cdn2.starcinemax.fun:2095/3013/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3015" tvg-name="Baton TV Синтия Ротрок" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Синтия Ротрок
+#EXTGRP:Фильмография World
+http://cdn2.starcinemax.fun:2095/3015/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3016" tvg-name="Baton TV Cinema Teens" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Cinema Teens
+#EXTGRP:Кинозалы Baton TV
+http://cdn2.starcinemax.fun:2095/3016/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3018" tvg-name="Baton TV Планета обезьян" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Планета обезьян
+#EXTGRP:Кинозалы Baton TV
+http://cdn2.starcinemax.fun:2095/3018/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3017" tvg-name="Baton TV Дон Дракон Уилсон" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Дон Дракон Уилсон
+#EXTGRP:Фильмография World
+http://cdn2.starcinemax.fun:2095/3017/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3022" tvg-name="Baton TV Cinema 90-х" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Cinema 90-х
+#EXTGRP:Кинозалы Baton TV
+http://cdn2.starcinemax.fun:2095/3022/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3021" tvg-name="Baton TV Розовая пантера" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Розовая пантера
+#EXTGRP:Мультфильмы Baton TV
+http://cdn2.starcinemax.fun:2095/3021/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Robbie Williams" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Robbie Williams
+#EXTGRP:Музыка Baton TV
+http://cdn2.starcinemax.fun:2095/3024/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Юрий Шатунов" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Юрий Шатунов
+#EXTGRP:Музыка Baton TV
+http://cdn2.starcinemax.fun:2095/3023/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3025" tvg-name="Baton TV Вирусы и эпидемии" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Вирусы и эпидемии
+#EXTGRP:Кинозалы Baton TV
+http://cdn2.starcinemax.fun:2095/3025/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3026" tvg-name="Baton TV Comedy Club" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Comedy Club
+#EXTGRP:Развлечения Baton TV
+http://cdn2.starcinemax.fun:2095/3026/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3029" tvg-name="Baton TV Арменфильм" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноконцерны СССР Baton TV" , Baton TV Арменфильм
+#EXTGRP:Киноконцерны СССР Baton TV
+http://cdn2.starcinemax.fun:2095/3029/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3027" tvg-name="Baton TV Kosmo" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Новинки" , Baton TV Kosmo
+#EXTGRP:Новинки
+http://cdn2.starcinemax.fun:2095/3027/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3030" tvg-name="Baton TV Эдди Мерфи" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" catchup="flussonic" catchup-days="3", Baton TV Эдди Мерфи
+#EXTGRP:Фильмография World
+http://cdn2.starcinemax.fun:2095/3030/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3032" tvg-name="Baton TV Альфред Хичкок" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" catchup="flussonic" catchup-days="3", Baton TV Альфред Хичкок
+#EXTGRP:Фильмография World
+http://cdn2.starcinemax.fun:2095/3032/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3034" tvg-name="Baton TV Полицейская академия" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Полицейская академия
+#EXTGRP:Кинозалы Baton TV
+http://cdn2.starcinemax.fun:2095/3034/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3035" tvg-name="Baton TV Савелий Крамаров" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Савелий Крамаров
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/3035/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3037" tvg-name="Baton TV Интерны" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Интерны
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/3037/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3036" tvg-name="Baton TV Что Где Когда" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Что Где Когда
+#EXTGRP:Развлечения Baton TV
+http://cdn2.starcinemax.fun:2095/3036/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3038" tvg-name="Baton TV Агент национальной безопасности" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Агент национальной безопасности
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/3038/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3039" tvg-name="Baton TV Полицейский с Рублевки" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Полицейский с Рублевки
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/3039/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3044" tvg-name="Baton TV Охотники за привидениями" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Охотники за привидениями
+#EXTGRP:Мультфильмы Baton TV
+http://cdn2.starcinemax.fun:2095/3044/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3042" tvg-name="Baton TV Comedy Club USSR" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сделано в СССР Baton TV" , Baton TV Comedy Club USSR
+#EXTGRP:Сделано в СССР Baton TV
+http://cdn2.starcinemax.fun:2095/3042/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3046" tvg-name="Baton TV Финес и Ферб" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Финес и Ферб
+#EXTGRP:Мультфильмы Baton TV
+http://cdn2.starcinemax.fun:2095/3046/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3047" tvg-name="Baton TV Новогодняя дискотека" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Новый Год Baton TV" , Baton TV Новогодняя дискотека
+#EXTGRP:Новый Год Baton TV
+http://cdn2.starcinemax.fun:2095/3047/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3048" tvg-name="Baton TV Американский дракон Джейк Лонг" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Американский дракон Джейк Лонг
+#EXTGRP:Мультфильмы Baton TV
+http://cdn2.starcinemax.fun:2095/3048/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3050" tvg-name="Baton TV Гэри Дэниелс" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" catchup="flussonic" catchup-days="3", Baton TV Гэри Дэниелс
+#EXTGRP:Фильмография World
+http://cdn2.starcinemax.fun:2095/3050/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3051" tvg-name="Baton TV Новая семейка Аддамс" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Новая семейка Аддамс
+#EXTGRP:Мультфильмы Baton TV
+http://cdn2.starcinemax.fun:2095/3051/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3041" tvg-name="Baton TV Симпсоны" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Симпсоны
+#EXTGRP:Мультфильмы Baton TV
+http://cdn2.starcinemax.fun:2095/3041/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3053" tvg-name="Baton TV Боишься ли ты темноты?" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Боишься ли ты темноты?
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/3053/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3052" tvg-name="Baton TV Она написала убийство" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Она написала убийство
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/3052/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3054" tvg-name="Baton TV Тюрьма Оз" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Тюрьма Оз
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/3054/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3057" tvg-name="Baton TV Сумеречная зона" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Сумеречная зона
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/3057/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV DiscoMan" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV DiscoMan
+#EXTGRP:Музыка Baton TV
+http://cdn2.starcinemax.fun:2095/3058/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Arabesque (Sandra)" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Arabesque (Sandra)
+#EXTGRP:Музыка Baton TV
+http://cdn2.starcinemax.fun:2095/3060/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3061" tvg-name="Baton TV Жуки" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Жуки
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/3061/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3063" tvg-name="Baton TV Никулин Вицин" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Никулин Вицин
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/3063/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0000" tvg-name="Baton TV Kylie Minogue" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Музыка Baton TV" , Baton TV Kylie Minogue
+#EXTGRP:Музыка Baton TV
+http://cdn2.starcinemax.fun:2095/3059/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3065" tvg-name="Baton TV Не сильный пол!" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Кинозалы Baton TV" , Baton TV Не сильный пол!
+#EXTGRP:Кинозалы Baton TV
+http://cdn2.starcinemax.fun:2095/3065/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3066" tvg-name="Baton TV Разрушители легенд" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Развлечения Baton TV" , Baton TV Разрушители легенд
+#EXTGRP:Развлечения Baton TV
+http://cdn2.starcinemax.fun:2095/3066/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="7002" tvg-name="Baton TV Новогодний калейдоскоп российские" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Новый Год Baton TV" , Baton TV Новогодний калейдоскоп российские
+#EXTGRP:Новый Год Baton TV
+http://cdn2.starcinemax.fun:2095/7002/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="7003" tvg-name="Baton TV Новогодний калейдоскоп мульты зарубежные" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Новый Год Baton TV" , Baton TV Новогодний калейдоскоп мульты зарубежные
+#EXTGRP:Новый Год Baton TV
+http://cdn2.starcinemax.fun:2095/7003/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="7033" tvg-name="Baton TV Соледад" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Соледад
+#EXTGRP:Сериалы Baton TV
+http://cdn2.starcinemax.fun:2095/7033/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0417" tvg-name="Baton TV Чужой район" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Чужой район
+#EXTGRP:Сериалы Baton TV
+http://cdn1.starcinemax.fun:2095/0417/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="2024006" tvg-name="Baton TV Михаил Кокшенов" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" catchup="flussonic" catchup-days="3", Baton TV Михаил Кокшенов
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/2024006/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0817" tvg-name="Baton TV Александр Абдулов" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" , Baton TV Александр Абдулов
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/0817/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0425" tvg-name="Baton TV Михаил Пуговкин" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" , Baton TV Михаил Пуговкин
+#EXTGRP:Фильмография RU
+http://cdn1.starcinemax.fun:2095/0425/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0040" tvg-name="Baton TV Жан Рено" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Жан Рено
+#EXTGRP:Фильмография World
+http://cdn2.starcinemax.fun:2095/0040/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0073" tvg-name="Baton TV Джеки Чан" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Джеки Чан
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0073/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0107" tvg-name="Baton TV Леонид Гайдай" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" , Baton TV Леонид Гайдай
+#EXTGRP:Фильмография RU
+http://cdn1.starcinemax.fun:2095/0107/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="2024004" tvg-name="Baton TV Евгений Моргунов" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" , Baton TV Евгений Моргунов
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/2024004/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0052" tvg-name="Baton TV Сильвестр Сталлоне" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Сильвестр Сталлоне
+#EXTGRP:Фильмография World
+http://cdn2.starcinemax.fun:2095/0052/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0045" tvg-name="Baton TV Квентин Тарантино" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Квентин Тарантино
+#EXTGRP:Фильмография World
+http://cdn2.starcinemax.fun:2095/0045/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0309" tvg-name="Baton TV Джулия Робертс" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Джулия Робертс
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0309/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="chak_norris" tvg-name="Baton TV Чак Норрис" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Чак Норрис
+#EXTGRP:Фильмография World
+http://cdn2.starcinemax.fun:2095/chak_norris/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0410" tvg-name="Baton TV Дмитрий Харатьян" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" , Baton TV Дмитрий Харатьян
+#EXTGRP:Фильмография RU
+http://cdn1.starcinemax.fun:2095/0410/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0449" tvg-name="Baton TV Евгений Евстигнеев" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" , Baton TV Евгений Евстигнеев
+#EXTGRP:Фильмография RU
+http://cdn1.starcinemax.fun:2095/0449/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0117" tvg-name="Baton TV Брюс Уиллис" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Брюс Уиллис
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0117/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0919" tvg-name="Baton TV Брэд Питт" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Брэд Питт
+#EXTGRP:Фильмография World
+http://cdn2.starcinemax.fun:2095/0919/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0918" tvg-name="Baton TV Джет Ли" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Джет Ли
+#EXTGRP:Фильмография World
+http://cdn2.starcinemax.fun:2095/0918/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0307" tvg-name="Baton TV Джонни Депп" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Джонни Депп
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0307/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0072" tvg-name="Baton TV Луи де Фюнес" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Луи де Фюнес
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0072/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0305" tvg-name="Baton TV Деми Мур" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Деми Мур
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0305/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0311" tvg-name="Baton TV Кэмерон Диас" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Кэмерон Диас
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0311/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0124" tvg-name="Baton TV Пьер Ришар" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Пьер Ришар
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0124/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0379" tvg-name="Baton TV Константин Хабенский" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" , Baton TV Константин Хабенский
+#EXTGRP:Фильмография RU
+http://cdn1.starcinemax.fun:2095/0379/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0423" tvg-name="Baton TV Андрей Федорцов" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" , Baton TV Андрей Федорцов
+#EXTGRP:Фильмография RU
+http://cdn1.starcinemax.fun:2095/0423/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0071" tvg-name="Baton TV Стивен Сигал" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Стивен Сигал
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0071/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3019" tvg-name="Baton TV Адам Сэндлер" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Адам Сэндлер
+#EXTGRP:Фильмография World
+http://cdn2.starcinemax.fun:2095/3019/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="7008" tvg-name="Baton TV Владимир Высоцкий" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" , Baton TV Владимир Высоцкий
+#EXTGRP:Фильмография RU
+http://cdn2.starcinemax.fun:2095/7008/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0072" tvg-name="Baton TV Николас Кейдж" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Николас Кейдж
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0072/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="3033" tvg-name="Baton TV Джон Траволта" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Джон Траволта
+#EXTGRP:Фильмография World
+http://cdn2.starcinemax.fun:2095/3033/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0110" tvg-name="Baton TV Джим Керри" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Джим Керри
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0110/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0308" tvg-name="Baton TV Джордж Клуни" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Джордж Клуни
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0308/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0378" tvg-name="Baton TV Хью Джекман" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Хью Джекман
+#EXTGRP:Фильмография World
+http://cdn2.starcinemax.fun:2095/hyu_dzhekman/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0923" tvg-name="Baton TV Мел Гибсон" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Мел Гибсон
+#EXTGRP:Фильмография World
+http://cdn2.starcinemax.fun:2095/0923/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0103" tvg-name="Baton TV Джейсон Стэйтем" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Джейсон Стэйтем
+#EXTGRP:Фильмография World
+http://cdn1.starcinemax.fun:2095/0103/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="futurama" tvg-name="Baton TV Футурама" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Футурама
+#EXTGRP:Мультфильмы Baton TV
+http://cdn2.starcinemax.fun:2095/futurama/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="adventures_of_the_gummi_bears" tvg-name="Baton TV Приключения мишек Гамми" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Приключения мишек Гамми
+#EXTGRP:Мультфильмы Baton TV
+http://cdn2.starcinemax.fun:2095/adventures_of_the_gummi_bears/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="0349" tvg-name="Baton TV Альф" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Альф
+#EXTGRP:Мультфильмы Baton TV
+http://cdn1.starcinemax.fun:2095/0349/index.m3u8?token=137946825
+#EXTINF:0 tvg-id="ducktales" tvg-name="Baton TV Утиные истории" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Мультфильмы Baton TV" , Baton TV Утиные истории
+#EXTGRP:Мультфильмы Baton TV
+http://cdn2.starcinemax.fun:2095/ducktales/index.m3u8?token=137946825
