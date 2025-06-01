@@ -30,8 +30,6 @@ http://cdn1.starcinemax.fun:2095/0420/index.m3u8?token=137946825
 #EXTGRP:Киноновелы Baton TV
 http://cdn1.starcinemax.fun:2095/0458/index.m3u8?token=137946825
 #EXTINF:0 tvg-id="0464" tvg-name="Baton TV Беларусьфильм" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Киноконцерны СССР Baton TV" , Baton TV Беларусьфильм
-#EXTGRP:Киноконцерны СССР Baton TV
-http://cdn2.starcinemax.fun:2095/0464/index.m3u8?token=137946825
 #EXTINF:0 tvg-id="0000" tvg-name="Baton TV Доктор хаус" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Сериалы Baton TV" , Baton TV Доктор хаус
 #EXTGRP:Сериалы Baton TV
 http://cdn2.starcinemax.fun:2095/0648/index.m3u8?token=137946825
@@ -1205,9 +1203,6 @@ http://cdn2.starcinemax.fun:2095/0817/index.m3u8?token=137946825
 #EXTINF:0 tvg-id="0425" tvg-name="Baton TV Михаил Пуговкин" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" , Baton TV Михаил Пуговкин
 #EXTGRP:Фильмография RU
 http://cdn1.starcinemax.fun:2095/0425/index.m3u8?token=137946825
-#EXTINF:0 tvg-id="0040" tvg-name="Baton TV Жан Рено" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Жан Рено
-#EXTGRP:Фильмография World
-http://cdn2.starcinemax.fun:2095/0040/index.m3u8?token=137946825
 #EXTINF:0 tvg-id="0073" tvg-name="Baton TV Джеки Чан" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Джеки Чан
 #EXTGRP:Фильмография World
 http://cdn1.starcinemax.fun:2095/0073/index.m3u8?token=137946825
@@ -1217,12 +1212,6 @@ http://cdn1.starcinemax.fun:2095/0107/index.m3u8?token=137946825
 #EXTINF:0 tvg-id="2024004" tvg-name="Baton TV Евгений Моргунов" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография RU" , Baton TV Евгений Моргунов
 #EXTGRP:Фильмография RU
 http://cdn2.starcinemax.fun:2095/2024004/index.m3u8?token=137946825
-#EXTINF:0 tvg-id="0052" tvg-name="Baton TV Сильвестр Сталлоне" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Сильвестр Сталлоне
-#EXTGRP:Фильмография World
-http://cdn2.starcinemax.fun:2095/0052/index.m3u8?token=137946825
-#EXTINF:0 tvg-id="0045" tvg-name="Baton TV Квентин Тарантино" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Квентин Тарантино
-#EXTGRP:Фильмография World
-http://cdn2.starcinemax.fun:2095/0045/index.m3u8?token=137946825
 #EXTINF:0 tvg-id="0309" tvg-name="Baton TV Джулия Робертс" tvg-logo="https://starcinemax.ru/logo_Baton TV.png" group-title="Фильмография World" , Baton TV Джулия Робертс
 #EXTGRP:Фильмография World
 http://cdn1.starcinemax.fun:2095/0309/index.m3u8?token=137946825
